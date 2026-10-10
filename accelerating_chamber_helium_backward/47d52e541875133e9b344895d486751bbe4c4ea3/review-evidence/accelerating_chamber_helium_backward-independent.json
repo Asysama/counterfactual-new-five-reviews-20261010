@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "47d52e541875133e9b344895d486751bbe4c4ea3",
+      "case_id": "accelerating_chamber_helium_backward_00000042",
+      "first_changed_frame": 32,
+      "minimum_target_border_px": 582,
+      "minimum_mask_pixels": 25733,
+      "physical_witnesses": {
+        "correct_equilibrium_angle": 0.32614774115329104,
+        "true_final_angle": 0.325853223049075,
+        "cf_final_angle": -0.325853223049075,
+        "tether_length": 1.525,
+        "evidence_frame": 45
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "47d52e541875133e9b344895d486751bbe4c4ea3",
+      "case_id": "accelerating_chamber_helium_backward_00000098",
+      "first_changed_frame": 36,
+      "minimum_target_border_px": 642,
+      "minimum_mask_pixels": 24337,
+      "physical_witnesses": {
+        "correct_equilibrium_angle": 0.44188772018157724,
+        "true_final_angle": 0.44157397064661463,
+        "cf_final_angle": -0.44157397064661463,
+        "tether_length": 1.375,
+        "evidence_frame": 46
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "visual_and_browser_pending": true
+}
