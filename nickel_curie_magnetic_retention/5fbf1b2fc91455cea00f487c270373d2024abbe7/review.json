@@ -1,0 +1,17 @@
+{
+  "decision": "NOT VERIFIED",
+  "generator_correctness": "NOT VERIFIED",
+  "scale_target": 100000,
+  "scale_static_accepted": 100000,
+  "rendered_primary_axes": [
+    "length",
+    "response",
+    "onset"
+  ],
+  "runtime_provenance": "PASS",
+  "browser_visual_verified": false,
+  "head_sha": "5fbf1b2fc91455cea00f487c270373d2024abbe7",
+  "accepted_cases": 2,
+  "review_url": "https://asysama.github.io/counterfactual-new-five-reviews-20261010/nickel_curie_magnetic_retention/5fbf1b2fc91455cea00f487c270373d2024abbe7/index.html",
+  "self_check_complete": false
+}

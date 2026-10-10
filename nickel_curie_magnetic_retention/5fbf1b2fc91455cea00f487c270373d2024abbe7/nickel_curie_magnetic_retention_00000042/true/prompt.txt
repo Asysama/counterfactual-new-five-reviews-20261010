@@ -1,0 +1,1 @@
+A nickel disk hangs against the underside of a cool permanent magnet. An induction heater raises the nickel temperature through its marked Curie temperature; the magnet stays cool. The magnet is calibrated so its residual attraction above Curie cannot support the disk. The nickel loses sufficient magnetic attraction, falls onto the catch plate and stays there.
