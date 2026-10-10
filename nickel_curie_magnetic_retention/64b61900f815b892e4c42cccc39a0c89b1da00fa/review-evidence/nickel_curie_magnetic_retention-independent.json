@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "64b61900f815b892e4c42cccc39a0c89b1da00fa",
+      "case_id": "nickel_curie_magnetic_retention_00000042",
+      "first_changed_frame": 32,
+      "minimum_target_border_px": 680,
+      "minimum_mask_pixels": 10028,
+      "physical_witnesses": {
+        "landed_z": 0.21,
+        "hot_retained_z": 2.24,
+        "final_temperature_K": 708.1066666666667,
+        "evidence_frame": 38
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "64b61900f815b892e4c42cccc39a0c89b1da00fa",
+      "case_id": "nickel_curie_magnetic_retention_00000098",
+      "first_changed_frame": 36,
+      "minimum_target_border_px": 680,
+      "minimum_mask_pixels": 7968,
+      "physical_witnesses": {
+        "landed_z": 0.21,
+        "hot_retained_z": 2.24,
+        "final_temperature_K": 735.29,
+        "evidence_frame": 42
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "visual_and_browser_pending": true
+}

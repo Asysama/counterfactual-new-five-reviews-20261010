@@ -1,0 +1,698 @@
+{
+  "generator_name": "nickel_curie_magnetic_retention",
+  "head_sha": "64b61900f815b892e4c42cccc39a0c89b1da00fa",
+  "files": {
+    "accepted.jsonl": {
+      "bytes": 310,
+      "sha256": "f72d28a56aa32e1db854bbc6effdb3db3cf4e44a54bfa50d4eb198974a59a4f5"
+    },
+    "expected-case-ids.json": {
+      "bytes": 95,
+      "sha256": "4610d710325697e75f9a5324b02cfa7b672318780e88c46eec0df1b023c890cc"
+    },
+    "index.html": {
+      "bytes": 12302,
+      "sha256": "19d2a7fbf0b3758fc7a7fa9ad4995067727a751325e59f54c1768a1edeee0062"
+    },
+    "nickel_curie_magnetic_retention_00000042/browser-derivatives.json": {
+      "bytes": 688,
+      "sha256": "0a95f9b3fb0b6e3b7db07740388e123e8741d9501838d86e8743be41301887dc"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual-000.png": {
+      "bytes": 127163,
+      "sha256": "4300b1c1052afff22e4cc97a62811a6d74852c660edb0794ef7f8ae8d7e7060e"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual-032.png": {
+      "bytes": 126654,
+      "sha256": "a97b0cbed35865e2d3735d363ae069c612b3c7aa759ecc354913fc6d8e0ac728"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual-038.png": {
+      "bytes": 126381,
+      "sha256": "6cce91fbf8d981a93e87294db636da9e4d0a9f0c62457ee6dc593fa340050d82"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual-090.png": {
+      "bytes": 125931,
+      "sha256": "a6c6a85b4bcec400a207fdaf2b1c0571179c986a0d832cdcd07eeda815ec4f77"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual-119.png": {
+      "bytes": 126615,
+      "sha256": "6648ea27b2a60646820fb432a053f7873abdf091e4fc1a2f55d96362fba2e08f"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/mask.mp4": {
+      "bytes": 1996782,
+      "sha256": "2bdb1c83d13990d5d063b6e173f23c03b8fecbb7c235501e789ba441704a470d"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/mask_browser.mp4": {
+      "bytes": 71312,
+      "sha256": "2e190dfba674450ee5fba4c00f2e35fb496bcecb1982b5d9ad1b4299aed392c7"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay.mp4": {
+      "bytes": 14809811,
+      "sha256": "bfefdce06806211b7c9aec7c9934e902a6e1207ff689a1c9c2f1be7f38559a11"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay_browser.mp4": {
+      "bytes": 1527657,
+      "sha256": "86ebaa590fa1f4e49e16c603b4bb2dd7fbafff46fb081053fd24ab7113b3b79f"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/prompt.txt": {
+      "bytes": 435,
+      "sha256": "a5518e1f4e6a88dd8fd005b6f0ccbe2481feed42dff229bc2397a0396690223b"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/trajectory.npz": {
+      "bytes": 1889,
+      "sha256": "986a526bcf9859e578bde1e8754e6c53ce670f7e4d09762015a2b9260af8dd95"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/video.mp4": {
+      "bytes": 15509549,
+      "sha256": "da44671435c804a2489bf8c8a34e775247191d0a2a5b87d68d24eac187996274"
+    },
+    "nickel_curie_magnetic_retention_00000042/counterfactual_retained_ferromagnetic_force_above_curie/video_browser.mp4": {
+      "bytes": 1516046,
+      "sha256": "a6941ab08cc6ce02966b35fb3fd8540ce32c7211cbb7b9a6e439b4c9b7f68ef4"
+    },
+    "nickel_curie_magnetic_retention_00000042/decoded-audit.json": {
+      "bytes": 994,
+      "sha256": "4edaf5b3e1bfc6b402ab54d834f892a306b2685d3cc6f0b80e7eacf94801a337"
+    },
+    "nickel_curie_magnetic_retention_00000042/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "0452dd706724c39ab91969670d47042c4d8e6e99eb7366d62331cb61d4293dfe"
+    },
+    "nickel_curie_magnetic_retention_00000042/manifest.json": {
+      "bytes": 5270,
+      "sha256": "2802c4352cf12162ff2efa71a327a48c7a9fa37ffe1f8c0d17eb2b03c590a2dd"
+    },
+    "nickel_curie_magnetic_retention_00000042/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "nickel_curie_magnetic_retention_00000042/mask-032.png": {
+      "bytes": 12610,
+      "sha256": "fb6a419e4474b2980663990e562c507f08ee9791bd85ed6a8c4aa3cf276e51d2"
+    },
+    "nickel_curie_magnetic_retention_00000042/mask-038.png": {
+      "bytes": 12609,
+      "sha256": "11a6c8319269e2a0cdb2279c19c99c60474b350e2317ff90b8dd2ff307531559"
+    },
+    "nickel_curie_magnetic_retention_00000042/mask-090.png": {
+      "bytes": 12612,
+      "sha256": "6461d3aca1de28df01efcc6a4c3e3acceb463052973f260a266b1c004475ca03"
+    },
+    "nickel_curie_magnetic_retention_00000042/mask-119.png": {
+      "bytes": 12612,
+      "sha256": "8904533440c47e35d4ba06bcbc116f16a71f9c942376e898064e1b23f08799bc"
+    },
+    "nickel_curie_magnetic_retention_00000042/metadata.json": {
+      "bytes": 5758,
+      "sha256": "848478ec63a6dcf44c4757555f34152bc315140bb5774913e3866e142acccf90"
+    },
+    "nickel_curie_magnetic_retention_00000042/overlay-000.png": {
+      "bytes": 127163,
+      "sha256": "4300b1c1052afff22e4cc97a62811a6d74852c660edb0794ef7f8ae8d7e7060e"
+    },
+    "nickel_curie_magnetic_retention_00000042/overlay-032.png": {
+      "bytes": 119832,
+      "sha256": "086a42fefa310e25f80cae3d47834fbda1950de035433c1ccb6710bf129039d4"
+    },
+    "nickel_curie_magnetic_retention_00000042/overlay-038.png": {
+      "bytes": 119766,
+      "sha256": "754d1c5d703d7ff2d51742fbcc6ecc68c90c37edc842bdad5dd4c3c4f1b8b814"
+    },
+    "nickel_curie_magnetic_retention_00000042/overlay-090.png": {
+      "bytes": 119254,
+      "sha256": "d7fb529ec20d3c90b9511cffefed9c0fbc15cbdb018140dc304f5cabfc475cd5"
+    },
+    "nickel_curie_magnetic_retention_00000042/overlay-119.png": {
+      "bytes": 119829,
+      "sha256": "83993ba9829e6755a7e971cd1fce9069e847e9b08af00de5c18e0fe2903ea9b4"
+    },
+    "nickel_curie_magnetic_retention_00000042/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "nickel_curie_magnetic_retention_00000042/true/prompt.txt": {
+      "bytes": 362,
+      "sha256": "c7eeab09d86e0ac0f0a44b0ddf68ad3186afb8298dfb4be3e8613e999e6262ef"
+    },
+    "nickel_curie_magnetic_retention_00000042/true/trajectory.npz": {
+      "bytes": 2100,
+      "sha256": "d729ed046dace560bbc36738379fec6b7a1bbdf6878001a5379eb65fcc577043"
+    },
+    "nickel_curie_magnetic_retention_00000042/true/video.mp4": {
+      "bytes": 16340334,
+      "sha256": "8b7935ca127f809d0d1a31252a2c16b905a6f874236f802e2024670ce196810c"
+    },
+    "nickel_curie_magnetic_retention_00000042/true/video_browser.mp4": {
+      "bytes": 1534328,
+      "sha256": "6aa8edd913faad9f183ff30a6bb81b3dccca4e77085e5118199005a44733915a"
+    },
+    "nickel_curie_magnetic_retention_00000042/true-000.png": {
+      "bytes": 127163,
+      "sha256": "4300b1c1052afff22e4cc97a62811a6d74852c660edb0794ef7f8ae8d7e7060e"
+    },
+    "nickel_curie_magnetic_retention_00000042/true-032.png": {
+      "bytes": 127208,
+      "sha256": "c28a513bdc9d34e29dfa2030ee868a3fbfd7c02b697055351c38276941855fae"
+    },
+    "nickel_curie_magnetic_retention_00000042/true-038.png": {
+      "bytes": 133246,
+      "sha256": "3f4d4cc104f2199ae55eef50c2b14154621ea10e7f0d16cf62d4e21913bd6f41"
+    },
+    "nickel_curie_magnetic_retention_00000042/true-090.png": {
+      "bytes": 136252,
+      "sha256": "7d2be5c853a7601a842c944ae5d8dd05168cc371a1b84840ba71bf57d0a67509"
+    },
+    "nickel_curie_magnetic_retention_00000042/true-119.png": {
+      "bytes": 136949,
+      "sha256": "8c6ec9b63531596bb89d8bdad0eec3139e19e084b0b3e2d5e47d11be17e6aa4b"
+    },
+    "nickel_curie_magnetic_retention_00000098/browser-derivatives.json": {
+      "bytes": 688,
+      "sha256": "32f4bdef553dccf2d55c4d79721523507fd50854948c9c470bdc0f5688113a97"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual-000.png": {
+      "bytes": 129795,
+      "sha256": "37164cfa4a9f6aa084f716eefa0d6fb57e6730b4d509d6d14090daa5c8f31a88"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual-036.png": {
+      "bytes": 129894,
+      "sha256": "1e0ffc1eb20b648375dbe0f9743c3a68ea6971ab4e0a710e8a5fdddd050857d0"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual-042.png": {
+      "bytes": 129281,
+      "sha256": "0fabb98e2826d899436af3c772ff41134b11960232cff2d41e00a3405c60516c"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual-090.png": {
+      "bytes": 130411,
+      "sha256": "0c208a79914c35b9dff22ca2c5b745b6efe2730233787e49bb3e2d51ac54e5b6"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual-119.png": {
+      "bytes": 128770,
+      "sha256": "a76ce8b063bdc574bd8d834a0adba81d9c86c875b74bc3f5e8d66e6d9065672a"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/mask.mp4": {
+      "bytes": 1981673,
+      "sha256": "135745d0b65a1e18bd3c96704139fae1edc47a71f190c3d49a220ff603bce648"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/mask_browser.mp4": {
+      "bytes": 65796,
+      "sha256": "5cc00c89a2699d1b116b4f80590ae43d7f70a89a509f78d7049803f7a0716d05"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay.mp4": {
+      "bytes": 15553630,
+      "sha256": "e66c418a5f6a7b9c71b0a2e46a7bb7488c16da35320d29162d7fffd902e46aed"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay_browser.mp4": {
+      "bytes": 1553056,
+      "sha256": "b1a867530b62e758e464bc5493d23db41202e763cb627e574b19bcddbdc21505"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/prompt.txt": {
+      "bytes": 435,
+      "sha256": "a5518e1f4e6a88dd8fd005b6f0ccbe2481feed42dff229bc2397a0396690223b"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/trajectory.npz": {
+      "bytes": 1982,
+      "sha256": "6a1090d3572a1525a42d836e81638d49b962e8431c25595768132613405490d5"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/video.mp4": {
+      "bytes": 16102639,
+      "sha256": "36db9645a4925f49c8f7a31b8cd80efabc8283f6b271d64814defdaaee34ab52"
+    },
+    "nickel_curie_magnetic_retention_00000098/counterfactual_retained_ferromagnetic_force_above_curie/video_browser.mp4": {
+      "bytes": 1540259,
+      "sha256": "291308489507da1b59ac543e61fc224900aca8ac2e52657b03bb39d11b7bd39c"
+    },
+    "nickel_curie_magnetic_retention_00000098/decoded-audit.json": {
+      "bytes": 994,
+      "sha256": "fc6ebf2698e928a5f2c51d933efe53d5abeaeb183bf62dbc92b05d509bc82ddd"
+    },
+    "nickel_curie_magnetic_retention_00000098/frame-hashes.json": {
+      "bytes": 34640,
+      "sha256": "f0fc7cd05be2a9ccce52852cfd617de722518451eec752c3aa4e8e04b3e5734f"
+    },
+    "nickel_curie_magnetic_retention_00000098/manifest.json": {
+      "bytes": 5270,
+      "sha256": "ec0736e689c667227723c395a7d4d196fdb0affa066954593bd2ef79c7193c2f"
+    },
+    "nickel_curie_magnetic_retention_00000098/mask-000.png": {
+      "bytes": 12286,
+      "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+    },
+    "nickel_curie_magnetic_retention_00000098/mask-036.png": {
+      "bytes": 12594,
+      "sha256": "7418e049e3aefefab9e716db20199b0d05d7a96ff1181c346e9d52d99102f77d"
+    },
+    "nickel_curie_magnetic_retention_00000098/mask-042.png": {
+      "bytes": 12594,
+      "sha256": "e812f3cc2bb8f921afef5c9401b3fc6c86c818db7885b167a1c9abfed72ddd42"
+    },
+    "nickel_curie_magnetic_retention_00000098/mask-090.png": {
+      "bytes": 12595,
+      "sha256": "30f3b17b87a216ea38928eac83094049f0f5452b40c28c2002b0d88092559f8d"
+    },
+    "nickel_curie_magnetic_retention_00000098/mask-119.png": {
+      "bytes": 12595,
+      "sha256": "85e93394a4b66e6a15257e66c8f47d30d2628a6b2c8b6481639cd61a92ac8601"
+    },
+    "nickel_curie_magnetic_retention_00000098/metadata.json": {
+      "bytes": 5744,
+      "sha256": "0e1c3a5d3c293dd9cbc2c2240728207866222d135af5ffa906fc3632ae7dfb82"
+    },
+    "nickel_curie_magnetic_retention_00000098/overlay-000.png": {
+      "bytes": 129795,
+      "sha256": "37164cfa4a9f6aa084f716eefa0d6fb57e6730b4d509d6d14090daa5c8f31a88"
+    },
+    "nickel_curie_magnetic_retention_00000098/overlay-036.png": {
+      "bytes": 124602,
+      "sha256": "0925aedc2429ef64cc15eff62b3981c54c2b8b903cac35ee6f1f68519b0e7b08"
+    },
+    "nickel_curie_magnetic_retention_00000098/overlay-042.png": {
+      "bytes": 123922,
+      "sha256": "b095e3975f12d1bd7fc1ffd01e357cb5ce00348587f0cfc3f756b0c141698534"
+    },
+    "nickel_curie_magnetic_retention_00000098/overlay-090.png": {
+      "bytes": 125089,
+      "sha256": "bdc85d5894cff529841f4025a093ed8af7d123ac1284c841f4d92a2b0ff82cab"
+    },
+    "nickel_curie_magnetic_retention_00000098/overlay-119.png": {
+      "bytes": 123335,
+      "sha256": "743d7ff670237a6b6d663662efc1decb7f41c87f03690ef7806bf80617bc8da6"
+    },
+    "nickel_curie_magnetic_retention_00000098/renderer-runtime.json": {
+      "bytes": 985,
+      "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+    },
+    "nickel_curie_magnetic_retention_00000098/true/prompt.txt": {
+      "bytes": 362,
+      "sha256": "c7eeab09d86e0ac0f0a44b0ddf68ad3186afb8298dfb4be3e8613e999e6262ef"
+    },
+    "nickel_curie_magnetic_retention_00000098/true/trajectory.npz": {
+      "bytes": 2199,
+      "sha256": "fb8c149758ce2270e0bf4fb513800a7bdb602c9cf066baf704a7410ba8965f48"
+    },
+    "nickel_curie_magnetic_retention_00000098/true/video.mp4": {
+      "bytes": 16781985,
+      "sha256": "26a227b8f48530f1c7cdb63d3abec028e94beff8db48faa2602b5cd11d8ecb9c"
+    },
+    "nickel_curie_magnetic_retention_00000098/true/video_browser.mp4": {
+      "bytes": 1553607,
+      "sha256": "46645e817069da52299d9573656ee2390f804d06850f38fa82a00005bfce9979"
+    },
+    "nickel_curie_magnetic_retention_00000098/true-000.png": {
+      "bytes": 129795,
+      "sha256": "37164cfa4a9f6aa084f716eefa0d6fb57e6730b4d509d6d14090daa5c8f31a88"
+    },
+    "nickel_curie_magnetic_retention_00000098/true-036.png": {
+      "bytes": 130379,
+      "sha256": "50d63068953c80974f6d554d0f1efa3869f5585b500c5d55b9b3debc0ae88d95"
+    },
+    "nickel_curie_magnetic_retention_00000098/true-042.png": {
+      "bytes": 135071,
+      "sha256": "dd9321cb566e20c4ae0f27e53f0cf267e8304098f6b1495bb427d396b7b63991"
+    },
+    "nickel_curie_magnetic_retention_00000098/true-090.png": {
+      "bytes": 137997,
+      "sha256": "440794cfbe4b2a717a090ae280dcc5eac7220292351afa1ac98cd749632ac9fd"
+    },
+    "nickel_curie_magnetic_retention_00000098/true-119.png": {
+      "bytes": 136607,
+      "sha256": "14202dca711ef3a8e7b36b7289a6b842b89aae540a4a5a2f200163915650265f"
+    },
+    "production-header.json": {
+      "bytes": 2223,
+      "sha256": "71f3cd49e99ee14b31acb5eb88cb4f34edcb349a5f3a0e7e560b4fb048e374ab"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/counterfactual-37-native-crop.png": {
+      "bytes": 13747,
+      "sha256": "5aeba77a0ad52a01de2c1f15f3b05188b8a6859e622667dec88c3ccfe0bf0e9c"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/counterfactual-37-overview.jpg": {
+      "bytes": 7847,
+      "sha256": "cdd053a130f9d275fde80ae1b386b2f118ea833cb5c3bb028d73626898c3e73c"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/counterfactual-38-native-crop.png": {
+      "bytes": 13762,
+      "sha256": "b280aa6547490eac33dbe8fe20234ed4f1043cccbb4d24c8ba4b761b6a229d26"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/counterfactual-38-overview.jpg": {
+      "bytes": 7835,
+      "sha256": "7b53ca5614693fd88b846b497300189305e4ad343ceff38aa14880a80e316b8c"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/counterfactual-39-native-crop.png": {
+      "bytes": 13770,
+      "sha256": "703f7078273fff91344f7ba09bac9dcc7f4eff6d2615f273239576070345f9f8"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/counterfactual-39-overview.jpg": {
+      "bytes": 7830,
+      "sha256": "8ab93248604969b20982688ed961010de33da9f92fb7f2a612638728ddf78465"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/mask-37-native-crop.png": {
+      "bytes": 594,
+      "sha256": "1513b186f41f01b50436b41da31f6b2b8b9de4c10798af6d3bc129c287dc7398"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/mask-37-overview.jpg": {
+      "bytes": 5067,
+      "sha256": "45850d34c58536d6e102db4fd6b47cd6b6941176ccda66ba1f4d94f651ed70b8"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/mask-38-native-crop.png": {
+      "bytes": 594,
+      "sha256": "1513b186f41f01b50436b41da31f6b2b8b9de4c10798af6d3bc129c287dc7398"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/mask-38-overview.jpg": {
+      "bytes": 5067,
+      "sha256": "45850d34c58536d6e102db4fd6b47cd6b6941176ccda66ba1f4d94f651ed70b8"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/mask-39-native-crop.png": {
+      "bytes": 593,
+      "sha256": "b76eced4ac252608cfe0d10922c9629b4393530cceae7383703ec3bb0a433076"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/mask-39-overview.jpg": {
+      "bytes": 5068,
+      "sha256": "fb6f5e3c2aedfb9f220ef06e5033201e77444e13261b7f5480f0afb7b8d413fa"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/native-temporal-crops.png": {
+      "bytes": 82258,
+      "sha256": "1fe37f0446b4daf8ce6a2352becb856f9a25964a0de74e60a90ace1467575353"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/overlay-37-native-crop.png": {
+      "bytes": 7954,
+      "sha256": "c039219859ba410c6ddc93ae4fe39300a8d203d2a1a5c5c26259d78d121514c8"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/overlay-37-overview.jpg": {
+      "bytes": 7860,
+      "sha256": "59b8ae4f4bf1a5330f34b180981d3e23fdfcab14c52efcc9427e310b34ae53c9"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/overlay-38-native-crop.png": {
+      "bytes": 8001,
+      "sha256": "7b9ea7e75651741c49dee16a809e40c1f4a323458fab1bdf2ccfe23c5ae37d09"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/overlay-38-overview.jpg": {
+      "bytes": 7862,
+      "sha256": "b0a6a8f09562fdba6a6b5d010a3a071ee94cad9dd31914a030b6e81b9e2fa655"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/overlay-39-native-crop.png": {
+      "bytes": 7986,
+      "sha256": "ed33d25e6ce347c2e30dda655a07c8156cb56e783eced7c26f01f80ba0816c20"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/overlay-39-overview.jpg": {
+      "bytes": 7849,
+      "sha256": "fb60d282a231d34392bb5691760a52677c4179b238c23b3ff148585214747ceb"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/true-37-native-crop.png": {
+      "bytes": 14003,
+      "sha256": "a8999d3dbaec997abe0fcac18c00075d3638d0c6faf7a081f282f53a38dfe583"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/true-37-overview.jpg": {
+      "bytes": 7978,
+      "sha256": "9cc4da49dd4ed9886c41c8fa925fdf8d2af90f8df04002d2a75cfe896c4fba7a"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/true-38-native-crop.png": {
+      "bytes": 13688,
+      "sha256": "4e7db95c27a4d56977b0af7780c4fb52d4a740fe1169facea27c92a1a07944ef"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/true-38-overview.jpg": {
+      "bytes": 7953,
+      "sha256": "930c54b1eaf997d8a2b6ac631885d42ddb0c5a615c7e65336f811f4ba274fb1c"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/true-39-native-crop.png": {
+      "bytes": 13815,
+      "sha256": "923aa0898e277f7d337e3445fbee60a5b599c0fcdb3ee39964ae26fed1c15ab1"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000042/true-39-overview.jpg": {
+      "bytes": 7956,
+      "sha256": "5addcba576463040d05f6bbdb583f2200a8a3c145c8308424a73e82f1cf1794f"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/counterfactual-41-native-crop.png": {
+      "bytes": 13617,
+      "sha256": "5d06e16899db62a8c7391f1feedaa55504661bec5b4fcb8d1bc42e5868591602"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/counterfactual-41-overview.jpg": {
+      "bytes": 7995,
+      "sha256": "b8b4977a937c779917e30221b6f6493ef4baec78c771d1407b53263cc01e6482"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/counterfactual-42-native-crop.png": {
+      "bytes": 13661,
+      "sha256": "cf700feb376d520fe6ac0a679462d0886f8bdcb546677a49a8a52f3c71e71dd4"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/counterfactual-42-overview.jpg": {
+      "bytes": 8001,
+      "sha256": "d49d2d1112738b2f43a921fc8bdef6fb361a68251bcc3b4533c01ca1d62b213d"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/counterfactual-43-native-crop.png": {
+      "bytes": 13643,
+      "sha256": "3568ba9e142289466a0fe698afd17a88c379b288892eb89a62b93a505d5cca75"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/counterfactual-43-overview.jpg": {
+      "bytes": 7997,
+      "sha256": "6405dabe846363975db37b28b1af06d0aa7416c48035517d6879e4eba30114cb"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/mask-41-native-crop.png": {
+      "bytes": 554,
+      "sha256": "cd4cb865ef67ddee0af3b3de4b42adfb1f7ecec19e1476a0f0f7b0417c7d04e0"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/mask-41-overview.jpg": {
+      "bytes": 5061,
+      "sha256": "6fb1289aeec13c4b7c3b3cba67f0005261cf9566f3f945f2805c2f19b37e2832"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/mask-42-native-crop.png": {
+      "bytes": 555,
+      "sha256": "fb7e4d0466121e547bc74b29f8632fd07c64c8dd8dcce9d9ce0e0c2cdfed4819"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/mask-42-overview.jpg": {
+      "bytes": 5062,
+      "sha256": "4254b0fdb7703dd894146f7f9f2b0aa752d21a7e78c305f27078895cfc673a57"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/mask-43-native-crop.png": {
+      "bytes": 555,
+      "sha256": "fb7e4d0466121e547bc74b29f8632fd07c64c8dd8dcce9d9ce0e0c2cdfed4819"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/mask-43-overview.jpg": {
+      "bytes": 5062,
+      "sha256": "4254b0fdb7703dd894146f7f9f2b0aa752d21a7e78c305f27078895cfc673a57"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/native-temporal-crops.png": {
+      "bytes": 78842,
+      "sha256": "0509f8f90c20ea8c3f191bd7ea1a527c6a0c87d876a38e5da35a661cb7e38be3"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/overlay-41-native-crop.png": {
+      "bytes": 8827,
+      "sha256": "a851dbbe0f6b6d7d413cb9350ba478cf8ff898279bf56e50dc49e1175d2015fd"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/overlay-41-overview.jpg": {
+      "bytes": 8012,
+      "sha256": "f9671f30ae8299a2b4716aac921f04a63abe57dbebade234f160d57d747506b5"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/overlay-42-native-crop.png": {
+      "bytes": 8833,
+      "sha256": "e3f4ad8e0094ac48f1ef6e769de8653fc2ad5950b3909dcdb5913182f09e115e"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/overlay-42-overview.jpg": {
+      "bytes": 8016,
+      "sha256": "f75f6302e59127029916a010665686fa1b23d7626bb3de90bdb1eaa6740b8a89"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/overlay-43-native-crop.png": {
+      "bytes": 8798,
+      "sha256": "5ae9c9dd2bad129bc44472405df4b32be38d657f1e352808c42974e41287d701"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/overlay-43-overview.jpg": {
+      "bytes": 8004,
+      "sha256": "db00a9d32932eb574139391202ac59bfa735241091ac38ac656d3c073efaeddf"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/true-41-native-crop.png": {
+      "bytes": 12270,
+      "sha256": "97f0f653c06c5ac737853d34f8565094fc636c2ee12eefaaca0dd2d5ef88f63f"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/true-41-overview.jpg": {
+      "bytes": 8110,
+      "sha256": "1206c9d4bf2079bd5aebe37d454840f65bbc7883e98c9d140959c5f75b9deec8"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/true-42-native-crop.png": {
+      "bytes": 12067,
+      "sha256": "180bc427aad3db8a36063dc6aa2087066ccdf5f899eefe327d056f5ad406436a"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/true-42-overview.jpg": {
+      "bytes": 8106,
+      "sha256": "e7bbc7e5350a5bb34aa03ad86d1a752ba3ac0901116ba67052738a071d90cbd4"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/true-43-native-crop.png": {
+      "bytes": 12043,
+      "sha256": "b668cc19b0a3e7592c79465591a787758885724a80fbf5ae8e81c1f0a21071c2"
+    },
+    "review-evidence/native-temporal-inspection/nickel_curie_magnetic_retention_00000098/true-43-overview.jpg": {
+      "bytes": 8088,
+      "sha256": "cdaf07dfe0062f5d39e3033f9ae28f39a4ce8629440309aa55f27d499b6c4ad1"
+    },
+    "review-evidence/native-temporal-inspection-manifest.json": {
+      "bytes": 13106,
+      "sha256": "81dfda99c892ed98eee4480a9e4f4287f6b392c7a1e810cdadf68ce0979aa055"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/axis-probes.json": {
+      "bytes": 8601,
+      "sha256": "fbd42097b887438bdb5f8c0e930f2a618ad15e407591baba159111034581a8c5"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/baseline-counterfactual-35.png": {
+      "bytes": 29127,
+      "sha256": "c0540a09b28fec1845f920c717d21a5bbd4a7a98d501bfc103edd82679bc2776"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/baseline-counterfactual-90.png": {
+      "bytes": 29206,
+      "sha256": "709f2d2b75d969149fc1a069e984d214bdf48137ff23c76d6d3f653ac34b7931"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/baseline-true-35.png": {
+      "bytes": 29960,
+      "sha256": "dc06c28133c036bf3036b511634383a113037e8c8d9e48f90331ffc91f724688"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/baseline-true-90.png": {
+      "bytes": 30685,
+      "sha256": "ec39eb3937cbc86345f19dceedf8a101587dfd21b81638b298b24ebe31b77728"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_high-counterfactual-35.png": {
+      "bytes": 29098,
+      "sha256": "980dc5919a42adbba74911c2ec5ed74b5b206a4cbe18e3201315aadd6dcd51d8"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_high-counterfactual-90.png": {
+      "bytes": 29176,
+      "sha256": "55e80fd1f5f03b6005ab235bd21e0b09088a973c7ab3210b2d24b7aa9808866d"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_high-true-35.png": {
+      "bytes": 30029,
+      "sha256": "1f24d7aab56051de722c4742b03ecbccc568d0025e347062de6a82f87ba96429"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_high-true-90.png": {
+      "bytes": 30717,
+      "sha256": "0b6c213dcc44112ca75db863e8c370dad4c52e3ebf79615aaa88ba81c477bca4"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_low-counterfactual-35.png": {
+      "bytes": 28919,
+      "sha256": "846ba90e42aa621807e4bde90e6318d8e6a5540330eb6a119c3df2afcce8587b"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_low-counterfactual-90.png": {
+      "bytes": 28999,
+      "sha256": "50f46df520b304cf6151128d424d6e6393d3dfdf22901c68ddc08dd6f8766109"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_low-true-35.png": {
+      "bytes": 29752,
+      "sha256": "2372bf18ce4401ca2a38d7db6976ab19960f27d062dd984e6e67bb88fdb30e8e"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/length_low-true-90.png": {
+      "bytes": 30212,
+      "sha256": "6f6062815027ff2f90df7af8085e185173410864febf5ad8e160a437b1393019"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_high-counterfactual-35.png": {
+      "bytes": 29293,
+      "sha256": "d0e1a0bf0ae7c520d3efd50deafcdd9cd00c4e0210ce69290ee9deed1017e591"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_high-counterfactual-90.png": {
+      "bytes": 29293,
+      "sha256": "841098655d0bfb62ab0a66527103d8bc288a0ff499d1526f089ed0762b7c3ec3"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_high-true-35.png": {
+      "bytes": 29293,
+      "sha256": "f611438ffff379a5f745f872d0bc0ce72e626ddf70989e7fb22fd915cf9fb4c5"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_high-true-90.png": {
+      "bytes": 30768,
+      "sha256": "a39f275eb51ab8749d0ac2663ec60c00c710dfd020bbcbb81172110bd4b4c720"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_low-counterfactual-35.png": {
+      "bytes": 29303,
+      "sha256": "6b74dcb7711a455ee0c3afb3934d619e235da38c41b39550aa6c285b37341d9a"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_low-counterfactual-90.png": {
+      "bytes": 29303,
+      "sha256": "82d486e5c35925c30675c0962fcac847ca65dc7de98d5449fae5fbc3b0f7e703"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_low-true-35.png": {
+      "bytes": 30311,
+      "sha256": "489934a7a2dce3f4417dba7c1ec6476049106e1f143073908f85188c1779f749"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/onset_low-true-90.png": {
+      "bytes": 30779,
+      "sha256": "14151efc22e953d1257515861f6d4b5813c6f245e50243e5040329774aa11f81"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_high-counterfactual-35.png": {
+      "bytes": 29279,
+      "sha256": "9bf549e346471e5e394d39db9b43ede8d6fcb6330beaf129df8383e7ba7ff005"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_high-counterfactual-90.png": {
+      "bytes": 29285,
+      "sha256": "3955662d6ae037b3b069377524426d4c60c6625b33a2e7ef3769f194b772e5d0"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_high-true-35.png": {
+      "bytes": 30114,
+      "sha256": "92303ea59b7c505bd4c70b2566d08887083953d6f306ea1b1322c03897bce7a0"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_high-true-90.png": {
+      "bytes": 30763,
+      "sha256": "d55163748c37026ca897f28df48633e3a1191a6077a1a063fcd16639f6902590"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_low-counterfactual-35.png": {
+      "bytes": 29312,
+      "sha256": "82fcf6d05c1b816737ecbf440d40c82ecc61f6f04ac9c7f35dbcf86cbccb1195"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_low-counterfactual-90.png": {
+      "bytes": 29247,
+      "sha256": "2d442675facf726488665b7969193bb8ab78b305645acf299fd6cef133a2e56f"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_low-true-35.png": {
+      "bytes": 30148,
+      "sha256": "8e41cebdc1ecf74dce8d5eabcaf8a16607ac098eb3997dd4bf00f72fcf354c10"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes/response_low-true-90.png": {
+      "bytes": 30720,
+      "sha256": "81b7d234736ca9655c563e0d7e47044486dd352106e94dee05e7b4b217ea9179"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-axis-probes.log": {
+      "bytes": 4660,
+      "sha256": "688cd47594bd91041f478f3ba003fe15fb59c757d96da68b69eec816b50eafe5"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-help.log": {
+      "bytes": 408,
+      "sha256": "dcc788fb18ad4a0c2c330386bb19d7e773ed995c866aed883f9d0741273a873d"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-independent.json": {
+      "bytes": 1183,
+      "sha256": "22ca102bea6dd442ba5579071448445eb1261ebdaa91e813b9abe9f8578b04e2"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-render.log": {
+      "bytes": 122332,
+      "sha256": "efdf406ce5364a6d97bc4df171bbeabafaa1ac19db2223fcb273104d90509dbe"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-resume.log": {
+      "bytes": 636,
+      "sha256": "6259f317e6a2ac4e9ec1e475d48fe270e04d9b75baea39d116d4088e6d322c18"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-runtime-index.log": {
+      "bytes": 1170,
+      "sha256": "e3d04403b4b97b73dfd0490323a2a3d94ac5080ef5264da90b9bfc98557c0b08"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-runtime.json": {
+      "bytes": 286,
+      "sha256": "7a5227b05a41233ca9f2b0f58cc3d1297912a51d9530efef85a999bd9cf7e892"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-scale.json": {
+      "bytes": 744,
+      "sha256": "c9c654b23fa4490e5acbf61203ccfb00f24aa69c4ca8d144e256a9a36419b0df"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-scale.log": {
+      "bytes": 744,
+      "sha256": "c9c654b23fa4490e5acbf61203ccfb00f24aa69c4ca8d144e256a9a36419b0df"
+    },
+    "review-evidence/nickel_curie_magnetic_retention-tests.log": {
+      "bytes": 98,
+      "sha256": "6ae60db2592ba5cbc3b7d38bd4c72e9df3688404ab51d9d4eb9b30c39d053fdd"
+    },
+    "review.json": {
+      "bytes": 563,
+      "sha256": "6fde2280101a4c0b6b96c54d70a7032ec8f0e0272de77eb45367747071471ba4"
+    },
+    "runtime-witness-index.json": {
+      "bytes": 1170,
+      "sha256": "e3d04403b4b97b73dfd0490323a2a3d94ac5080ef5264da90b9bfc98557c0b08"
+    },
+    "runtime-witness.json": {
+      "bytes": 16671,
+      "sha256": "d60178fd2398192491ec561e5bc213ec3fe2221141da28d441b751b89a6496bd"
+    }
+  }
+}

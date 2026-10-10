@@ -1,0 +1,150 @@
+{
+  "browser-derivatives.json": {
+    "bytes": 688,
+    "sha256": "0a95f9b3fb0b6e3b7db07740388e123e8741d9501838d86e8743be41301887dc"
+  },
+  "counterfactual-000.png": {
+    "bytes": 127163,
+    "sha256": "4300b1c1052afff22e4cc97a62811a6d74852c660edb0794ef7f8ae8d7e7060e"
+  },
+  "counterfactual-032.png": {
+    "bytes": 126654,
+    "sha256": "a97b0cbed35865e2d3735d363ae069c612b3c7aa759ecc354913fc6d8e0ac728"
+  },
+  "counterfactual-038.png": {
+    "bytes": 126381,
+    "sha256": "6cce91fbf8d981a93e87294db636da9e4d0a9f0c62457ee6dc593fa340050d82"
+  },
+  "counterfactual-090.png": {
+    "bytes": 125931,
+    "sha256": "a6c6a85b4bcec400a207fdaf2b1c0571179c986a0d832cdcd07eeda815ec4f77"
+  },
+  "counterfactual-119.png": {
+    "bytes": 126615,
+    "sha256": "6648ea27b2a60646820fb432a053f7873abdf091e4fc1a2f55d96362fba2e08f"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/mask.mp4": {
+    "bytes": 1996782,
+    "sha256": "2bdb1c83d13990d5d063b6e173f23c03b8fecbb7c235501e789ba441704a470d"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/mask_browser.mp4": {
+    "bytes": 71312,
+    "sha256": "2e190dfba674450ee5fba4c00f2e35fb496bcecb1982b5d9ad1b4299aed392c7"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay.mp4": {
+    "bytes": 14809811,
+    "sha256": "bfefdce06806211b7c9aec7c9934e902a6e1207ff689a1c9c2f1be7f38559a11"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/mask_overlay_browser.mp4": {
+    "bytes": 1527657,
+    "sha256": "86ebaa590fa1f4e49e16c603b4bb2dd7fbafff46fb081053fd24ab7113b3b79f"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/prompt.txt": {
+    "bytes": 435,
+    "sha256": "a5518e1f4e6a88dd8fd005b6f0ccbe2481feed42dff229bc2397a0396690223b"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/trajectory.npz": {
+    "bytes": 1889,
+    "sha256": "986a526bcf9859e578bde1e8754e6c53ce670f7e4d09762015a2b9260af8dd95"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/video.mp4": {
+    "bytes": 15509549,
+    "sha256": "da44671435c804a2489bf8c8a34e775247191d0a2a5b87d68d24eac187996274"
+  },
+  "counterfactual_retained_ferromagnetic_force_above_curie/video_browser.mp4": {
+    "bytes": 1516046,
+    "sha256": "a6941ab08cc6ce02966b35fb3fd8540ce32c7211cbb7b9a6e439b4c9b7f68ef4"
+  },
+  "decoded-audit.json": {
+    "bytes": 994,
+    "sha256": "4edaf5b3e1bfc6b402ab54d834f892a306b2685d3cc6f0b80e7eacf94801a337"
+  },
+  "frame-hashes.json": {
+    "bytes": 34640,
+    "sha256": "0452dd706724c39ab91969670d47042c4d8e6e99eb7366d62331cb61d4293dfe"
+  },
+  "mask-000.png": {
+    "bytes": 12286,
+    "sha256": "f57ca1fb2a21ab3c7da1b0ac1ed3859b816a4ed6eb7b09700419e86f0b0e1c8e"
+  },
+  "mask-032.png": {
+    "bytes": 12610,
+    "sha256": "fb6a419e4474b2980663990e562c507f08ee9791bd85ed6a8c4aa3cf276e51d2"
+  },
+  "mask-038.png": {
+    "bytes": 12609,
+    "sha256": "11a6c8319269e2a0cdb2279c19c99c60474b350e2317ff90b8dd2ff307531559"
+  },
+  "mask-090.png": {
+    "bytes": 12612,
+    "sha256": "6461d3aca1de28df01efcc6a4c3e3acceb463052973f260a266b1c004475ca03"
+  },
+  "mask-119.png": {
+    "bytes": 12612,
+    "sha256": "8904533440c47e35d4ba06bcbc116f16a71f9c942376e898064e1b23f08799bc"
+  },
+  "metadata.json": {
+    "bytes": 5758,
+    "sha256": "848478ec63a6dcf44c4757555f34152bc315140bb5774913e3866e142acccf90"
+  },
+  "overlay-000.png": {
+    "bytes": 127163,
+    "sha256": "4300b1c1052afff22e4cc97a62811a6d74852c660edb0794ef7f8ae8d7e7060e"
+  },
+  "overlay-032.png": {
+    "bytes": 119832,
+    "sha256": "086a42fefa310e25f80cae3d47834fbda1950de035433c1ccb6710bf129039d4"
+  },
+  "overlay-038.png": {
+    "bytes": 119766,
+    "sha256": "754d1c5d703d7ff2d51742fbcc6ecc68c90c37edc842bdad5dd4c3c4f1b8b814"
+  },
+  "overlay-090.png": {
+    "bytes": 119254,
+    "sha256": "d7fb529ec20d3c90b9511cffefed9c0fbc15cbdb018140dc304f5cabfc475cd5"
+  },
+  "overlay-119.png": {
+    "bytes": 119829,
+    "sha256": "83993ba9829e6755a7e971cd1fce9069e847e9b08af00de5c18e0fe2903ea9b4"
+  },
+  "renderer-runtime.json": {
+    "bytes": 985,
+    "sha256": "954809bdde9f0a92a6fa9865dc9e02e09d62aea994f1c2d80b3d108971ed3912"
+  },
+  "true-000.png": {
+    "bytes": 127163,
+    "sha256": "4300b1c1052afff22e4cc97a62811a6d74852c660edb0794ef7f8ae8d7e7060e"
+  },
+  "true-032.png": {
+    "bytes": 127208,
+    "sha256": "c28a513bdc9d34e29dfa2030ee868a3fbfd7c02b697055351c38276941855fae"
+  },
+  "true-038.png": {
+    "bytes": 133246,
+    "sha256": "3f4d4cc104f2199ae55eef50c2b14154621ea10e7f0d16cf62d4e21913bd6f41"
+  },
+  "true-090.png": {
+    "bytes": 136252,
+    "sha256": "7d2be5c853a7601a842c944ae5d8dd05168cc371a1b84840ba71bf57d0a67509"
+  },
+  "true-119.png": {
+    "bytes": 136949,
+    "sha256": "8c6ec9b63531596bb89d8bdad0eec3139e19e084b0b3e2d5e47d11be17e6aa4b"
+  },
+  "true/prompt.txt": {
+    "bytes": 362,
+    "sha256": "c7eeab09d86e0ac0f0a44b0ddf68ad3186afb8298dfb4be3e8613e999e6262ef"
+  },
+  "true/trajectory.npz": {
+    "bytes": 2100,
+    "sha256": "d729ed046dace560bbc36738379fec6b7a1bbdf6878001a5379eb65fcc577043"
+  },
+  "true/video.mp4": {
+    "bytes": 16340334,
+    "sha256": "8b7935ca127f809d0d1a31252a2c16b905a6f874236f802e2024670ce196810c"
+  },
+  "true/video_browser.mp4": {
+    "bytes": 1534328,
+    "sha256": "6aa8edd913faad9f183ff30a6bb81b3dccca4e77085e5118199005a44733915a"
+  }
+}
