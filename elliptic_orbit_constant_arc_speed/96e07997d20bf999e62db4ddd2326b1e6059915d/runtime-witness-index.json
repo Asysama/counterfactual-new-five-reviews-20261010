@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "b18e16f0e581b851f4ddecf5d747046a7c196be89ca4814eb763217c5b1850c3": {
+      "path": "runtime-witness.json",
+      "sha256": "b18e16f0e581b851f4ddecf5d747046a7c196be89ca4814eb763217c5b1850c3",
+      "generator": "elliptic_orbit_constant_arc_speed",
+      "case_set": "seeds42,98",
+      "source_commit": "96e07997d20bf999e62db4ddd2326b1e6059915d"
+    }
+  },
+  "cases": {
+    "elliptic_orbit_constant_arc_speed_00000042": {
+      "witness_id": "b18e16f0e581b851f4ddecf5d747046a7c196be89ca4814eb763217c5b1850c3",
+      "metadata_path": "elliptic_orbit_constant_arc_speed_00000042/metadata.json",
+      "metadata_sha256": "10925de611590f2e48f384b26f793e41e815ff3ccae9eeaa779800a65c91e74c"
+    },
+    "elliptic_orbit_constant_arc_speed_00000098": {
+      "witness_id": "b18e16f0e581b851f4ddecf5d747046a7c196be89ca4814eb763217c5b1850c3",
+      "metadata_path": "elliptic_orbit_constant_arc_speed_00000098/metadata.json",
+      "metadata_sha256": "1601a8e2cc670c9f49202777f1cf82a86bd683e266687529e130d3b4730f241c"
+    }
+  },
+  "failures": []
+}

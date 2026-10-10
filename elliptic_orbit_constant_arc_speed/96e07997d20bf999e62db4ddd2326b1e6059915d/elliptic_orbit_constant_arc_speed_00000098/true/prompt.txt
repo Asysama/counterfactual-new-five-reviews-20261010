@@ -1,0 +1,1 @@
+A small satellite circles a massive central body at the focus of an elliptical orbit under a central inverse-square gravitational field. The orbit plane is shown nearly face-on. The satellite travels fastest near the central body and slowest far away, sweeping approximately equal areas about the focus in equal time intervals.

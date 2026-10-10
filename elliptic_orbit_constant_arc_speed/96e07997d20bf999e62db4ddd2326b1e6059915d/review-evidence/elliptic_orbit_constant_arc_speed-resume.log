@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/opt/siyuan-cf-five/new-20261010/verified-v3/elliptic_orbit_constant_arc_speed/generators/elliptic_orbit_constant_arc_speed/examples/generate.py", line 5, in <module>
+    if __name__=='__main__':cli()
+                            ^^^^^
+  File "/opt/siyuan-cf-five/new-20261010/verified-v3/elliptic_orbit_constant_arc_speed/generators/elliptic_orbit_constant_arc_speed/engine/run.py", line 93, in cli
+    assert a.resume and json.loads(hf.read_text())==header,'incompatible resume'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: incompatible resume
+RESUME_PASS

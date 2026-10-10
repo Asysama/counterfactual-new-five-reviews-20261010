@@ -1,0 +1,250 @@
+{
+  "generator": "elliptic_orbit_constant_arc_speed",
+  "commit": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+  "worktree": "",
+  "python": "3.11.17 (main, Oct  3 2026, 01:05:36) [Clang 22.1.3 ]",
+  "blender": "4.5.3 LTS",
+  "platform": "Linux-7.0.0-1014-aws-x86_64-with-glibc2.39",
+  "smoke_resolution": [
+    512,
+    512
+  ],
+  "formal_acceptance": false,
+  "probes": {
+    "baseline": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.644,
+        "e": 0.4355555555555556,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.4798660830704318,
+        "mu": 24.062328306303353
+      },
+      "images": {
+        "baseline-true-35.png": "c99e2c103cd2c669ea07ff22ae5a4eaf55236a00b8f0560ad1858087fa7f915c",
+        "baseline-true-90.png": "52da82142dec02793569eb8fe1e2e12b6228b9671888d34ff61aac5fa4dfc301",
+        "baseline-counterfactual-35.png": "54131560841bb4a262bfa94a5f303cff0a13f3ab0ce1cfe9c9120153cbdf145e",
+        "baseline-counterfactual-90.png": "8a7945e1e1a8e08d35df073f74cc4d114217b16e0041ed91ede85562e954c025"
+      },
+      "metrics": {},
+      "changed_pixels": {}
+    },
+    "length_low": {
+      "recipe": {
+        "length": 3.4,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.35,
+        "e": 0.4355555555555556,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.215218498871705,
+        "mu": 13.323965941470634
+      },
+      "images": {
+        "length_low-true-35.png": "639f2d32c706228fd0e66d90bac71bde6b197faf83c6fff9d26fdbf35dd66a91",
+        "length_low-true-90.png": "92fede9bd91139702a83c789f3c7e19965696d1ac3065fd8d2d93747c943e5fe",
+        "length_low-counterfactual-35.png": "ee806e9acc4e45013d8567d532f69568ab7d30a9de4e3b9d1f0316f732d53c4e",
+        "length_low-counterfactual-90.png": "f29e2bd1c3b261a4ded7d11bdec0584530e89f45f20be67b203466ff7244bd89"
+      },
+      "metrics": {
+        "true-35": 0.5132115681966146,
+        "true-90": 0.5252113342285156,
+        "counterfactual-35": 0.5104204813639323,
+        "counterfactual-90": 0.5277086893717448
+      },
+      "changed_pixels": {
+        "true-35": 5782,
+        "true-90": 5886,
+        "counterfactual-35": 5764,
+        "counterfactual-90": 5909
+      }
+    },
+    "length_high": {
+      "recipe": {
+        "length": 4.3,
+        "response": 0.7899999999999999,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.728,
+        "e": 0.4355555555555556,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.5554796785557823,
+        "mu": 27.942381822087015
+      },
+      "images": {
+        "length_high-true-35.png": "1629d1fbd802dd436747865cc1eaf2c94f1c15427090d2fd95e971ae2d306d12",
+        "length_high-true-90.png": "7e44f359e1cbd37cb62e3d782ce751b7045ce31a86af37ce056de17b45b647d6",
+        "length_high-counterfactual-35.png": "ceb4cc90281c8f40eec18cfac76fbbae814f52b7e083c30cbb6a72ce27b60165",
+        "length_high-counterfactual-90.png": "3959db52d2cb7d2e2b87ec88c51df62f98db38dfed07cacc33255841b1254f6d"
+      },
+      "metrics": {
+        "true-35": 0.38234710693359375,
+        "true-90": 0.4017041524251302,
+        "counterfactual-35": 0.3774566650390625,
+        "counterfactual-90": 0.40455373128255206
+      },
+      "changed_pixels": {
+        "true-35": 5121,
+        "true-90": 5201,
+        "counterfactual-35": 5096,
+        "counterfactual-90": 5214
+      }
+    },
+    "response_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.644,
+        "e": 0.4,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.50675088850148,
+        "mu": 24.062328306303353
+      },
+      "images": {
+        "response_low-true-35.png": "01795d1b927acf6b7388ec68303826f52e501ccabac9f9b0e6cb1a9f7496e6c7",
+        "response_low-true-90.png": "e15fa78319dfca4a131bd7a2c06010b98a1d4b2ff52072e4735026c3bac5f8ec",
+        "response_low-counterfactual-35.png": "dabf27fcc4e6b68b62603fb0e767319921b8c09cb8e7580326eabc2eb593abe1",
+        "response_low-counterfactual-90.png": "c9cdfe9fd3950bad4df9cf53e144e33335f018ac2817cb461771fbe3c0b15d3e"
+      },
+      "metrics": {
+        "true-35": 0.3301353454589844,
+        "true-90": 0.35272471110026044,
+        "counterfactual-35": 0.3200543721516927,
+        "counterfactual-90": 0.33936182657877606
+      },
+      "changed_pixels": {
+        "true-35": 4864,
+        "true-90": 4989,
+        "counterfactual-35": 4799,
+        "counterfactual-90": 4957
+      }
+    },
+    "response_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 1.105,
+        "onset": 31,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.644,
+        "e": 0.56,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.3620418460531964,
+        "mu": 24.062328306303353
+      },
+      "images": {
+        "response_high-true-35.png": "c02ee446e97615ac48ab2b8b45031c991fb1e9e920366d1a381c3b47c1897cf6",
+        "response_high-true-90.png": "83593d38c239d2157cf034ef5cd82b900c7884cf755f2278e115625a1410d317",
+        "response_high-counterfactual-35.png": "0efe9b076826030968470e4f08e226aaa85860dc6d5cca982aa4924105e413d6",
+        "response_high-counterfactual-90.png": "c6e26e0522c4d82c6989b9ee2dd3e83306d291a15f26624747f2d33dfa98b1cb"
+      },
+      "metrics": {
+        "true-35": 0.5384661356608073,
+        "true-90": 0.5862312316894531,
+        "counterfactual-35": 0.5116678873697916,
+        "counterfactual-90": 0.573998769124349
+      },
+      "changed_pixels": {
+        "true-35": 5697,
+        "true-90": 5957,
+        "counterfactual-35": 5607,
+        "counterfactual-90": 5862
+      }
+    },
+    "onset_low": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 28,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.644,
+        "e": 0.4355555555555556,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.4798660830704318,
+        "mu": 24.062328306303353
+      },
+      "images": {
+        "onset_low-true-35.png": "daba8497eb142fb8199e7a57bec6a6f98161ba02b88a1d0667a4f5c46adbf5e0",
+        "onset_low-true-90.png": "438437d5646ede60a1a0370866a33e297b38dd02b559d6b1843e40a16241fd99",
+        "onset_low-counterfactual-35.png": "ed63cf33bcc9be6375733a67badd6db43f678b177d7f2a999b98716f44ea2846",
+        "onset_low-counterfactual-90.png": "d2478b280ff447fafcfa748913abd7251b78142c5d9ac307e4902a0ddd21a0f0"
+      },
+      "metrics": {
+        "true-35": 0.0,
+        "true-90": 0.0,
+        "counterfactual-35": 0.10105641682942708,
+        "counterfactual-90": 0.10519154866536458
+      },
+      "changed_pixels": {
+        "true-35": 0,
+        "true-90": 0,
+        "counterfactual-35": 992,
+        "counterfactual-90": 1139
+      }
+    },
+    "onset_high": {
+      "recipe": {
+        "length": 4.1,
+        "response": 0.7899999999999999,
+        "onset": 37,
+        "appearance": 7,
+        "view": 3,
+        "gravity": 9.81,
+        "a": 1.644,
+        "e": 0.4355555555555556,
+        "period": 2.7,
+        "orbiter_radius": 0.13,
+        "time_scale": 1.0,
+        "b": 1.4798660830704318,
+        "mu": 24.062328306303353
+      },
+      "images": {
+        "onset_high-true-35.png": "6b5d953558d61fe03b9000ecef33ca1553b17bc7a6a96054fc836b73f689862b",
+        "onset_high-true-90.png": "8c0005c8080597a2a342f1617ee48695d2cff7d6371822eb0f67bedc794d8d3d",
+        "onset_high-counterfactual-35.png": "6b5d953558d61fe03b9000ecef33ca1553b17bc7a6a96054fc836b73f689862b",
+        "onset_high-counterfactual-90.png": "64accc2a12512fd67b17dacd7d7c134134f11e613ccd0e63b766dd872b3700ff"
+      },
+      "metrics": {
+        "true-35": 0.0,
+        "true-90": 0.0,
+        "counterfactual-35": 0.1093902587890625,
+        "counterfactual-90": 0.12938054402669272
+      },
+      "changed_pixels": {
+        "true-35": 0,
+        "true-90": 0,
+        "counterfactual-35": 1125,
+        "counterfactual-90": 1406
+      }
+    }
+  }
+}

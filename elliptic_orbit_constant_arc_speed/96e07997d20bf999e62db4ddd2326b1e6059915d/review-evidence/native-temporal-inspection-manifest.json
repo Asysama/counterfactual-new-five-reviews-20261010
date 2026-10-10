@@ -1,0 +1,362 @@
+[
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "9a557d18df38c712ad994585071e1a158bc4954669f5f535c378effe2f7fd9e0",
+    "frame": 65,
+    "crop": [
+      1534,
+      856,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/true-65-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "9a557d18df38c712ad994585071e1a158bc4954669f5f535c378effe2f7fd9e0",
+    "frame": 66,
+    "crop": [
+      1529,
+      763,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/true-66-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "true/video.mp4",
+    "source_sha256": "9a557d18df38c712ad994585071e1a158bc4954669f5f535c378effe2f7fd9e0",
+    "frame": 67,
+    "crop": [
+      1507,
+      674,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/true-67-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/video.mp4",
+    "source_sha256": "bf8c7727cdeee25861b3b4d870d02c05b9b646387973a05711ffd84e3b7d3646",
+    "frame": 65,
+    "crop": [
+      1534,
+      837,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/counterfactual-65-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/video.mp4",
+    "source_sha256": "bf8c7727cdeee25861b3b4d870d02c05b9b646387973a05711ffd84e3b7d3646",
+    "frame": 66,
+    "crop": [
+      1532,
+      781,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/counterfactual-66-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/video.mp4",
+    "source_sha256": "bf8c7727cdeee25861b3b4d870d02c05b9b646387973a05711ffd84e3b7d3646",
+    "frame": 67,
+    "crop": [
+      1522,
+      726,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/counterfactual-67-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask.mp4",
+    "source_sha256": "e9d02f62ff62a6650fb7e282c4902585cb27ce9469d286654555787e407a1578",
+    "frame": 65,
+    "crop": [
+      1534,
+      837,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/mask-65-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask.mp4",
+    "source_sha256": "e9d02f62ff62a6650fb7e282c4902585cb27ce9469d286654555787e407a1578",
+    "frame": 66,
+    "crop": [
+      1532,
+      781,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/mask-66-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask.mp4",
+    "source_sha256": "e9d02f62ff62a6650fb7e282c4902585cb27ce9469d286654555787e407a1578",
+    "frame": 67,
+    "crop": [
+      1522,
+      726,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/mask-67-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask_overlay.mp4",
+    "source_sha256": "1254febae2b2ee940b91e060d321b63a9395b4deae1f4ad2c009c09459e64794",
+    "frame": 65,
+    "crop": [
+      1534,
+      837,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/overlay-65-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask_overlay.mp4",
+    "source_sha256": "1254febae2b2ee940b91e060d321b63a9395b4deae1f4ad2c009c09459e64794",
+    "frame": 66,
+    "crop": [
+      1532,
+      781,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/overlay-66-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask_overlay.mp4",
+    "source_sha256": "1254febae2b2ee940b91e060d321b63a9395b4deae1f4ad2c009c09459e64794",
+    "frame": 67,
+    "crop": [
+      1522,
+      726,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000042/overlay-67-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "c995297cc92f0ba5943d71dd33d7547df083cf7bb2e810a1fa062d73adf7be70",
+    "frame": 69,
+    "crop": [
+      1295,
+      583,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/true-69-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "c995297cc92f0ba5943d71dd33d7547df083cf7bb2e810a1fa062d73adf7be70",
+    "frame": 70,
+    "crop": [
+      1228,
+      536,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/true-70-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "true/video.mp4",
+    "source_sha256": "c995297cc92f0ba5943d71dd33d7547df083cf7bb2e810a1fa062d73adf7be70",
+    "frame": 71,
+    "crop": [
+      1160,
+      500,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/true-71-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/video.mp4",
+    "source_sha256": "327b0e6cc68c25fbc96cf0654063cb623b89e99110a0e803ba283f46f5f53a3c",
+    "frame": 69,
+    "crop": [
+      1435,
+      774,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/counterfactual-69-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/video.mp4",
+    "source_sha256": "327b0e6cc68c25fbc96cf0654063cb623b89e99110a0e803ba283f46f5f53a3c",
+    "frame": 70,
+    "crop": [
+      1416,
+      729,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/counterfactual-70-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/video.mp4",
+    "source_sha256": "327b0e6cc68c25fbc96cf0654063cb623b89e99110a0e803ba283f46f5f53a3c",
+    "frame": 71,
+    "crop": [
+      1391,
+      687,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/counterfactual-71-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask.mp4",
+    "source_sha256": "cae546c679c513f5f26e2dd6b37f5e6bf71b3ad45eaf5f5a82df2645fc76e9be",
+    "frame": 69,
+    "crop": [
+      1435,
+      774,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/mask-69-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask.mp4",
+    "source_sha256": "cae546c679c513f5f26e2dd6b37f5e6bf71b3ad45eaf5f5a82df2645fc76e9be",
+    "frame": 70,
+    "crop": [
+      1416,
+      729,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/mask-70-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask.mp4",
+    "source_sha256": "cae546c679c513f5f26e2dd6b37f5e6bf71b3ad45eaf5f5a82df2645fc76e9be",
+    "frame": 71,
+    "crop": [
+      1391,
+      687,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/mask-71-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask_overlay.mp4",
+    "source_sha256": "7bb782aa955f745e6aa947d26dc3e786f03aabf6d7620dd622832b47e32fdcbc",
+    "frame": 69,
+    "crop": [
+      1435,
+      774,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/overlay-69-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask_overlay.mp4",
+    "source_sha256": "7bb782aa955f745e6aa947d26dc3e786f03aabf6d7620dd622832b47e32fdcbc",
+    "frame": 70,
+    "crop": [
+      1416,
+      729,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/overlay-70-native-crop.png"
+  },
+  {
+    "generator": "elliptic_orbit_constant_arc_speed",
+    "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+    "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+    "source": "counterfactual_constant_elliptic_arc_speed/mask_overlay.mp4",
+    "source_sha256": "7bb782aa955f745e6aa947d26dc3e786f03aabf6d7620dd622832b47e32fdcbc",
+    "frame": 71,
+    "crop": [
+      1391,
+      687,
+      256,
+      256
+    ],
+    "inspection_png": "elliptic_orbit_constant_arc_speed/elliptic_orbit_constant_arc_speed_00000098/overlay-71-native-crop.png"
+  }
+]

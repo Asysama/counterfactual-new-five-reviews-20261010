@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "status": "PASS",
+      "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+      "case_id": "elliptic_orbit_constant_arc_speed_00000042",
+      "first_changed_frame": 32,
+      "minimum_target_border_px": 303,
+      "minimum_mask_pixels": 7313,
+      "physical_witnesses": {
+        "true_areal_speed_CV": 0.002098797583115825,
+        "cf_areal_speed_CV": 0.29415494001935194,
+        "true_speed_ratio": 2.536058788277641,
+        "cf_speed_ratio": 1.0002521080971476,
+        "evidence_frame": 66
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    },
+    {
+      "status": "PASS",
+      "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+      "case_id": "elliptic_orbit_constant_arc_speed_00000098",
+      "first_changed_frame": 36,
+      "minimum_target_border_px": 409,
+      "minimum_mask_pixels": 7436,
+      "physical_witnesses": {
+        "true_areal_speed_CV": 0.003930515295271089,
+        "cf_areal_speed_CV": 0.37919262049763586,
+        "true_speed_ratio": 3.5231058679205023,
+        "cf_speed_ratio": 1.0004714581799388,
+        "evidence_frame": 70
+      },
+      "decoded_frames_each_stream": 120,
+      "visual_inspection": "PENDING",
+      "browser_playback": "PENDING"
+    }
+  ],
+  "visual_and_browser_pending": true
+}

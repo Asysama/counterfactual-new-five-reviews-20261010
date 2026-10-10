@@ -1,0 +1,28 @@
+{
+  "schema_version": "counterfactual-runtime-witness-index-v1",
+  "pass": true,
+  "witness_count": 1,
+  "case_count": 2,
+  "witnesses": {
+    "728f06631d15cc18ab6732f05b122058d7576e633d4190e5a81251bb367b0bdb": {
+      "path": "runtime-witness.json",
+      "sha256": "728f06631d15cc18ab6732f05b122058d7576e633d4190e5a81251bb367b0bdb",
+      "generator": "overdamped_spring_spurious_oscillation",
+      "case_set": "seeds42,98",
+      "source_commit": "53b1887b091a8370d9afb636856497b51d15bd3f"
+    }
+  },
+  "cases": {
+    "overdamped_spring_spurious_oscillation_00000042": {
+      "witness_id": "728f06631d15cc18ab6732f05b122058d7576e633d4190e5a81251bb367b0bdb",
+      "metadata_path": "overdamped_spring_spurious_oscillation_00000042/metadata.json",
+      "metadata_sha256": "6dd355abf1d9a21f9360f1446495ecdf44cad21217b0843b18b44532dc3945bd"
+    },
+    "overdamped_spring_spurious_oscillation_00000098": {
+      "witness_id": "728f06631d15cc18ab6732f05b122058d7576e633d4190e5a81251bb367b0bdb",
+      "metadata_path": "overdamped_spring_spurious_oscillation_00000098/metadata.json",
+      "metadata_sha256": "9fb3d1dc3751770cee043d93f2df039f99704f77538558cadf630ac58aaa20d1"
+    }
+  },
+  "failures": []
+}
