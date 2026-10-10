@@ -1,0 +1,17 @@
+{
+  "decision": "NOT VERIFIED",
+  "generator_correctness": "NOT VERIFIED",
+  "scale_target": 100000,
+  "scale_static_accepted": 100000,
+  "rendered_primary_axes": [
+    "length",
+    "response",
+    "onset"
+  ],
+  "runtime_provenance": "PASS",
+  "browser_visual_verified": false,
+  "head_sha": "d0f17ee87ae4de4fcab5a2445c888d85020df450",
+  "accepted_cases": 2,
+  "review_url": "https://asysama.github.io/counterfactual-new-five-reviews-20261010/thermal_contact_reverse_heat_flow/d0f17ee87ae4de4fcab5a2445c888d85020df450/index.html",
+  "self_check_complete": false
+}
