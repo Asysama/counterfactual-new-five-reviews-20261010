@@ -3,6 +3,6 @@
   "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/650",
   "head_sha": "47d52e541875133e9b344895d486751bbe4c4ea3",
   "review_url": "https://asysama.github.io/counterfactual-new-five-reviews-20261010/accelerating_chamber_helium_backward/47d52e541875133e9b344895d486751bbe4c4ea3/index.html",
-  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
-  "self_check_complete": true
+  "note": "\u672c\u9875\u662f\u65e7\u63d0\u4ea4\u7248\u672c\u7684\u5386\u53f2\u6750\u6599\uff0c\u5df2\u88ab\u73b0\u5b9e\u88c5\u7f6e\u4fee\u8ba2\u7248\u66ff\u4ee3\u3002 Not a current application; no Sara submission.",
+  "self_check_complete": false
 }

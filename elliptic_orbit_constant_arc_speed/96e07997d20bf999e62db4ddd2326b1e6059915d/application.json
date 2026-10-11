@@ -3,6 +3,6 @@
   "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/653",
   "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
   "review_url": "https://asysama.github.io/counterfactual-new-five-reviews-20261010/elliptic_orbit_constant_arc_speed/96e07997d20bf999e62db4ddd2326b1e6059915d/index.html",
-  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
-  "self_check_complete": true
+  "note": "\u6b64\u8f68\u9053\u65b9\u6848\u56e0\u5f02\u5e38\u4e0d\u591f\u76f4\u89c2\uff0c\u5df2\u9000\u51fa\u672c\u6b21\u5019\u9009\u3002\u672c\u9875\u4ec5\u4fdd\u7559\u5386\u53f2\u6750\u6599\u3002 Not a current application; no Sara submission.",
+  "self_check_complete": false
 }

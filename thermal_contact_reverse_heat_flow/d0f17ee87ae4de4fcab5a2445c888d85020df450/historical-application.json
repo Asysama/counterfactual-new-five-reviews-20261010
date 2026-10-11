@@ -1,0 +1,8 @@
+{
+  "generator_name": "thermal_contact_reverse_heat_flow",
+  "pr_url": "https://github.com/hipo-dev/counterfactual-data/pull/651",
+  "head_sha": "d0f17ee87ae4de4fcab5a2445c888d85020df450",
+  "review_url": "https://asysama.github.io/counterfactual-new-five-reviews-20261010/thermal_contact_reverse_heat_flow/d0f17ee87ae4de4fcab5a2445c888d85020df450/index.html",
+  "note": "Two representative native cases; all six hard gates, successful runtime provenance,100k static population audit, rendered primary-axis diversity, independent physical/decoded checks and actual browser playback/seek verified. Contributor self-check only; Sara application not submitted.",
+  "self_check_complete": true
+}

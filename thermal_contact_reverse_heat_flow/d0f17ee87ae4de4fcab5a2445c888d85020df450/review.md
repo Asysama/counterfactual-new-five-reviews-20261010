@@ -1,3 +1,5 @@
+> 本页是旧提交版本的历史材料，已被现实装置修订版替代。 [当前审查网页](https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/thermal_contact_reverse_heat_flow/f3d36e0ad2baf58387a3c4819df17b020185720d/index.html)
+
 # PR 651 generator review
 
 **Decision:** PASS

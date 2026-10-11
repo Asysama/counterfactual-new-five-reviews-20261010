@@ -1,3 +1,5 @@
+> 本页是旧提交版本的历史材料，已被现实装置修订版替代。 [当前审查网页](https://asysama.github.io/counterfactual-real-apparatus-reviews-20261011/overdamped_spring_spurious_oscillation/c0e5c2b71b4c4a695bc916237c34d3c6928a7333/index.html)
+
 # PR 652 generator review
 
 **Decision:** PASS

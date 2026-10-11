@@ -1,3 +1,5 @@
+> 此轨道方案因异常不够直观，已退出本次候选。本页仅保留历史材料。
+
 # PR 653 generator review
 
 **Decision:** PASS

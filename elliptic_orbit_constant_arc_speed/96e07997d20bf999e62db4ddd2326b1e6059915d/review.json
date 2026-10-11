@@ -1,7 +1,7 @@
 {
-  "scale_readiness": "PASS",
+  "scale_readiness": "NOT VERIFIED",
   "formal_rendered_count": 2,
-  "decision": "PASS",
+  "decision": "NOT VERIFIED",
   "generator_correctness": "PASS",
   "scale_target": 100000,
   "scale_static_accepted": 100000,
@@ -15,5 +15,8 @@
   "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
   "accepted_cases": 2,
   "review_url": "https://asysama.github.io/counterfactual-new-five-reviews-20261010/elliptic_orbit_constant_arc_speed/96e07997d20bf999e62db4ddd2326b1e6059915d/index.html",
-  "self_check_complete": true
+  "self_check_complete": false,
+  "candidate_status": "WITHDRAWN",
+  "historical_self_check_complete": true,
+  "historical_decision": "PASS"
 }
