@@ -1,0 +1,11 @@
+{
+  "head_sha": "47d52e541875133e9b344895d486751bbe4c4ea3",
+  "pass": true,
+  "native_evidence_triplets_inspected": true,
+  "seeds": [
+    42,
+    98
+  ],
+  "observations": "Both native evidence triplets show balloon moving smoothly on opposite tether slopes. Balloon surface is smooth and continuously joined to tether. Visible target mask excludes tether and chamber; native full frames show anchored tether, readable sealed-air/helium and acceleration annotations, wheels outside deck and no balloon-wall collision. Actual browser evidence snapshots have correct scene colors, black/white target masks and red target-only overlay; no blank or swapped-channel stream. All 8 streams completed and seeked both ways.",
+  "full_video_visual_status": "Browser playback completed; native sequential crops and full-scene keyframes plus both cases browser evidence, masks and overlays visually inspected."
+}

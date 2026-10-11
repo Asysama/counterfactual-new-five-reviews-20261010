@@ -1,0 +1,11 @@
+{
+  "head_sha": "d0f17ee87ae4de4fcab5a2445c888d85020df450",
+  "pass": true,
+  "native_evidence_triplets_inspected": true,
+  "seeds": [
+    42,
+    98
+  ],
+  "observations": "Both native triplets show True hot temperature falling and CF rising. Neighboring block seam stays stable, surface thermometer text stays attached; white target covers the two metal blocks and integrated readouts. Overview shows supported tabletop, flush insulation inlays without visible flicker or false levitation. Actual browser evidence snapshots have correct scene colors, black/white target masks and red target-only overlay; no blank or swapped-channel stream. All 8 streams completed and seeked both ways.",
+  "full_video_visual_status": "Browser playback completed; native sequential crops and full-scene keyframes plus both cases browser evidence, masks and overlays visually inspected."
+}

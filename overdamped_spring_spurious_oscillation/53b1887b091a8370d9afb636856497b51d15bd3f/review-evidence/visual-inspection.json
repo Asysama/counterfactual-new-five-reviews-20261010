@@ -1,0 +1,11 @@
+{
+  "head_sha": "53b1887b091a8370d9afb636856497b51d15bd3f",
+  "pass": true,
+  "native_evidence_triplets_inspected": true,
+  "seeds": [
+    42,
+    98
+  ],
+  "observations": "Both native triplets show smooth carriage edges; rails occlude the target mask correctly and remain uncolored in overlay. Overview shows continuous spring, guide rails, passive piston and retracted release pin; no new disconnected edge is visible. All 8 real Chrome streams completed, seeked forward/backward, with correct colors, strict-looking white-on-black browser targets and red overlays. Native start scenes show continuous, supported geometry with no additional anomaly. Independent every-frame decoded and physical witnesses establish full motion behavior.",
+  "full_video_visual_status": "Browser playback completed; both native start full scenes, sequential evidence crops and browser evidence/mask/overlay frames inspected."
+}

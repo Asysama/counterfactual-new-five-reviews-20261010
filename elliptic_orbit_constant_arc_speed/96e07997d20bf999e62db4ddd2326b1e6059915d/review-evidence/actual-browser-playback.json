@@ -1,0 +1,105 @@
+{
+  "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+  "pass": true,
+  "browser": "Chrome",
+  "stream_ids": [
+    "elliptic_orbit_constant_arc_speed_00000042-0",
+    "elliptic_orbit_constant_arc_speed_00000042-1",
+    "elliptic_orbit_constant_arc_speed_00000042-2",
+    "elliptic_orbit_constant_arc_speed_00000042-3",
+    "elliptic_orbit_constant_arc_speed_00000098-0",
+    "elliptic_orbit_constant_arc_speed_00000098-1",
+    "elliptic_orbit_constant_arc_speed_00000098-2",
+    "elliptic_orbit_constant_arc_speed_00000098-3"
+  ],
+  "completed_times": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "evidence_times": [
+    2.75,
+    2.75,
+    2.75,
+    2.75,
+    2.916666,
+    2.916666,
+    2.916666,
+    2.916666
+  ],
+  "last_times": [
+    4.958333,
+    4.958333,
+    4.958333,
+    4.958333,
+    4.958333,
+    4.958333,
+    4.958333,
+    4.958333
+  ],
+  "start_times": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "durations": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "widths": [
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024
+  ],
+  "heights": [
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024,
+    1024
+  ],
+  "errors": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "seek_ready_states": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ]
+}

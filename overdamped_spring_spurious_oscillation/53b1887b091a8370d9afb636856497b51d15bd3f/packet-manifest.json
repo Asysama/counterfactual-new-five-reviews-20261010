@@ -6,13 +6,17 @@
       "bytes": 324,
       "sha256": "2e43f76b5a0921abea1847f12df84164dfc70daf5a33879f6b94b27a29fe9a4f"
     },
+    "application.json": {
+      "bytes": 701,
+      "sha256": "70255835d2dec4a9c4a3123087799a5a21e8893d3ea1333b157ca39a75126cf8"
+    },
     "expected-case-ids.json": {
       "bytes": 109,
       "sha256": "82da6cd81c889a3cef9090dcfbb0659997e3f8c235b8d1bc96b80191a3b50063"
     },
     "index.html": {
-      "bytes": 12994,
-      "sha256": "86c8d8fe31b9b306aba140607c764d142d777771c8b9ee30491e43c72c716371"
+      "bytes": 14177,
+      "sha256": "a0e1e5b3df63cd12e73fdedceca4bc5bf7401b438c3b8f610c4073f0f56473f1"
     },
     "overdamped_spring_spurious_oscillation_00000042/browser-derivatives.json": {
       "bytes": 685,
@@ -321,6 +325,10 @@
     "production-header.json": {
       "bytes": 2230,
       "sha256": "aa813c8e7f2e992ced69f65abaf0616059796765c25149e14942902ac62d5832"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 1456,
+      "sha256": "4d8e8350a1bf818311edb0d0a68b055f41ef3e30ca9b29517084ee0785b209f5"
     },
     "review-evidence/controlled-primary-axis-montage.jpg": {
       "bytes": 94703,
@@ -686,9 +694,17 @@
       "bytes": 98,
       "sha256": "09229b326b028651d725fa47cd1bae9fd8e0145ff8779bdb84ae2762c00ab737"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 912,
+      "sha256": "600dadb8b305296509f9885386c347631490e46d819f94e5b7357a41c08f02de"
+    },
     "review.json": {
-      "bytes": 637,
-      "sha256": "f6a4cf968c9f7c1dcc62076f4850e3f725130c85b1fe272abd72f00553426f98"
+      "bytes": 611,
+      "sha256": "4d2588eb414e3a4a5120deb94d94d452ccca2904a0faf4ced03b170827bc4bee"
+    },
+    "review.md": {
+      "bytes": 14807,
+      "sha256": "dd1971726e1dc1fd18ff4652b19254f158f84cfc40f74c1865cda893a0796588"
     },
     "runtime-witness-index.json": {
       "bytes": 1205,

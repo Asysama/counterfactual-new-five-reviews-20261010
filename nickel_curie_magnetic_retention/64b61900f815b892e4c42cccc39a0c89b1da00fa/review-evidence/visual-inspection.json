@@ -1,0 +1,11 @@
+{
+  "head_sha": "64b61900f815b892e4c42cccc39a0c89b1da00fa",
+  "pass": true,
+  "native_evidence_triplets_inspected": true,
+  "seeds": [
+    42,
+    98
+  ],
+  "observations": "Both native evidence triplets show free-falling True nickel versus hot retained CF nickel. Occluded top surface is absent from target mask; red overlay ends at the same silhouette. Heater bracket is connected in the revised overview; full native support inspection and browser playback remain pending. Actual browser evidence snapshots have correct scene colors, black/white target masks and red target-only overlay; no blank or swapped-channel stream. All 8 streams completed and seeked both ways. Both revised native start frames show positive, visible heater-bracket/post contact; both final True frames show flat supported catch-plate landing.",
+  "full_video_visual_status": "Browser playback completed; native sequential crops and full-scene keyframes plus both cases browser evidence, masks and overlays visually inspected."
+}

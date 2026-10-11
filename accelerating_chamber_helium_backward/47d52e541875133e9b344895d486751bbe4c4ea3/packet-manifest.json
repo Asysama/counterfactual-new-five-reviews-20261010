@@ -310,13 +310,17 @@
       "bytes": 320,
       "sha256": "0b8c8d0b9b67ed6184b4c70c0855295ec44d8c2833c916b3ea8ca5ba4e34609e"
     },
+    "application.json": {
+      "bytes": 697,
+      "sha256": "e3556b0ce3a6795421035d07596984ed55acc47eaf328f229a411e9c263b1fd2"
+    },
     "expected-case-ids.json": {
       "bytes": 105,
       "sha256": "a110a025022571b74c4ee02771bd7309f32011a5fddc62c0d25de451b0c295ef"
     },
     "index.html": {
-      "bytes": 12516,
-      "sha256": "22572ad309d394fb87636d336f61eeb942bc085af3b970a36e203b9a5b3ebe92"
+      "bytes": 13695,
+      "sha256": "d3ad9fe66273afd2ce25c2fcf5e6f97fb0a0fc7d2c1347a39cc14109bd662f6c"
     },
     "production-header.json": {
       "bytes": 2228,
@@ -477,6 +481,14 @@
     "review-evidence/accelerating_chamber_helium_backward-tests.log": {
       "bytes": 98,
       "sha256": "09229b326b028651d725fa47cd1bae9fd8e0145ff8779bdb84ae2762c00ab737"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 1440,
+      "sha256": "903ff2c390a776c8cab339b7a89ab7a72f6fe420472a6c82d96d9665642392f6"
+    },
+    "review-evidence/controlled-primary-axis-montage.jpg": {
+      "bytes": 121637,
+      "sha256": "74a7c5cd702fb0dd316c6afdcaae8a778f77d914a6afc91da447304a2f24104b"
     },
     "review-evidence/native-temporal-inspection/accelerating_chamber_helium_backward_00000042/counterfactual-44-native-crop.png": {
       "bytes": 19647,
@@ -682,9 +694,17 @@
       "bytes": 13554,
       "sha256": "8ec65c67eb5b0543fe8c74fd64ce1a48c3ce08b6412fb46f483d50a84c784222"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 901,
+      "sha256": "6503f5ba5bffcb99690910d6be84cf2831439e5008b1c84684fae7fd57bfa64a"
+    },
     "review.json": {
-      "bytes": 568,
-      "sha256": "77390c765164b03c014b37af4528e77f8adc0ad2b79355a32f28fe492df17bd4"
+      "bytes": 609,
+      "sha256": "111acee0715ce3ace8bb7c682e32b985582dd0144b7de8b380b4f6b73b0edf4c"
+    },
+    "review.md": {
+      "bytes": 14537,
+      "sha256": "044d8090357e78f5568d0238547de4582a90e3665b9eb57b9e08dc2313c29423"
     },
     "runtime-witness-index.json": {
       "bytes": 1195,

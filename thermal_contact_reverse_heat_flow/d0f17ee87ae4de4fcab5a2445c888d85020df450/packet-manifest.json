@@ -6,17 +6,29 @@
       "bytes": 314,
       "sha256": "bfa6ca79b1bb80058f90d8367f44f0c70533c900d1640fcdc39192a4d78cd648"
     },
+    "application.json": {
+      "bytes": 691,
+      "sha256": "a6c224a8d0ea4adb95278d8b490e0d435c56f6fcd7c9e1e7d8fe4d87271c6089"
+    },
     "expected-case-ids.json": {
       "bytes": 99,
       "sha256": "9621cc51e7f4d047cdd1401a5ceb1aa0c1ada5d5fafee71551980e19941be366"
     },
     "index.html": {
-      "bytes": 12639,
-      "sha256": "2c126db5370f1fee18462c2b782e98326b4d6e819a3b286bfe901cacaee29a1e"
+      "bytes": 13812,
+      "sha256": "55eff82e0b0b5ed0492cfaf0727b592df3c40fcc153412004fe4ee4088e288e2"
     },
     "production-header.json": {
       "bytes": 2225,
       "sha256": "907f567f6eb29fa7d6ee51be6e57649da80c42008792d9da09a293fa6ea8c94e"
+    },
+    "review-evidence/actual-browser-playback.json": {
+      "bytes": 1416,
+      "sha256": "b4458fd5455f0d904886fd2e94c8bd0d7d12988250e77ca7c1b14c4750071e50"
+    },
+    "review-evidence/controlled-primary-axis-montage.jpg": {
+      "bytes": 88256,
+      "sha256": "25aef02e77051dc301f26cb8f48a0dbae5a3eaaf5abc02069459425e27499f70"
     },
     "review-evidence/native-temporal-inspection/thermal_contact_reverse_heat_flow_00000042/counterfactual-62-native-crop.png": {
       "bytes": 6190,
@@ -378,9 +390,17 @@
       "bytes": 98,
       "sha256": "09229b326b028651d725fa47cd1bae9fd8e0145ff8779bdb84ae2762c00ab737"
     },
+    "review-evidence/visual-inspection.json": {
+      "bytes": 874,
+      "sha256": "d14f53045e9b9c1760cad6ed13c1dcfaf3e185c68590f445914993dfc7262af9"
+    },
     "review.json": {
-      "bytes": 565,
-      "sha256": "db98b695ac7b5a259de8ea0a82a290401581acb2148036db4d977b565b0a5457"
+      "bytes": 606,
+      "sha256": "3b21f844341d17ab96c43bfd1f432cbf3ac6a0ef0c1a029403b55ac006e020aa"
+    },
+    "review.md": {
+      "bytes": 14677,
+      "sha256": "c84eac545a80b28a58bec7e246fd1e7163c961a16343af8e12f8b2ab187186d8"
     },
     "runtime-witness-index.json": {
       "bytes": 1180,

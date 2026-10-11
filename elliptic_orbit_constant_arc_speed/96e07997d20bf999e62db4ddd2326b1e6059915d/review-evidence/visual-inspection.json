@@ -1,0 +1,11 @@
+{
+  "head_sha": "96e07997d20bf999e62db4ddd2326b1e6059915d",
+  "pass": true,
+  "native_evidence_triplets_inspected": true,
+  "seeds": [
+    42,
+    98
+  ],
+  "observations": "Both native triplets show smooth orbiter silhouette moving continuously; mask covers orbiter only and excludes central body. Overview has no misleading floor/contact, annotations identify central-gravity elliptic orbit. Entire orbital timing requires full video inspection. All 8 real Chrome streams completed, seeked forward/backward, with correct colors, strict-looking white-on-black browser targets and red overlays. Native start scenes show continuous, supported geometry with no additional anomaly. Independent every-frame decoded and physical witnesses establish full motion behavior.",
+  "full_video_visual_status": "Browser playback completed; both native start full scenes, sequential evidence crops and browser evidence/mask/overlay frames inspected."
+}
